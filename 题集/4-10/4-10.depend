@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552632282 source:d:\严蔚敏数据结构\题集\4-10\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<vector>
+
